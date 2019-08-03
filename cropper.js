@@ -135,7 +135,7 @@ function attachToImages(options) {
   });
 }
 
-attachToImages({
+/** attachToImages({
   shouldCover: true,
   selector: "img"
-});
+}); */
